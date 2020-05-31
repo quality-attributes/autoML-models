@@ -5,6 +5,7 @@
 .env
 *.dat
 *.log
+/venv/
 
 ### macOS ###
 # General

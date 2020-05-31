@@ -10,4 +10,3 @@
 ##
 ## Examples of valid logical operators are: ==  !=  >=  <=  >  <  &  |  !  %in%
 population%%2 != 0
-poplation > 3
