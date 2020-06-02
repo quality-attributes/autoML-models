@@ -32,7 +32,7 @@ digits = 4
 
 ## Number of calls to targetRunner to execute in parallel. Less than 2
 ## means calls to targetRunner are sequentially executed.
-parallel = 3
+parallel = 2
 
 ## File containing a list of logical expressions that cannot be true
 ## for any evaluated configuration. If empty or NULL, do not use a file.

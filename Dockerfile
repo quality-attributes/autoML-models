@@ -20,4 +20,4 @@ ENV PATH=${IRACE_HOME}/bin/:$PATH
 
 COPY . /usr/src/iracer
 
-CMD cd irace && irace
+# CMD cd irace && irace
