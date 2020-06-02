@@ -66,6 +66,6 @@ Description of the best-so-far configuration:
   population generations crossover factor
 3         40          81    0.9490 0.7878
 6         46          12    0.9592 0.2282
-# Best configurations as commandlines (first number is the configuration ID; same order as above):
+# Best configurations as command lines (first number is the configuration ID; same order as above):
 3  --np=40 --max_gen=81 --cr=0.949 --f=0.7878
 6  --np=46 --max_gen=12 --cr=0.9592 --f=0.2282

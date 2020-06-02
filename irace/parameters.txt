@@ -28,5 +28,5 @@
 # 1:            2:                   3: 4:      5:
 population      "--np="        i  (3, 50)
 generations     "--max_gen="   i  (1, 100)
-crossover       "--cr="        r  (0.01, 1.0)
-factor          "--f="         r  (0.01, 1.0)
+crossover       "--cr="        r  (0.0, 1.0)
+factor          "--f="         r  (0.0, 2.0)
