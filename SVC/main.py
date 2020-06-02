@@ -2,7 +2,7 @@ import argparse
 
 from scipy.optimize import differential_evolution
 
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import SVC
 from sklearn.model_selection import cross_val_score
 
 import pickle
@@ -19,17 +19,27 @@ __version__ = "1.0"
 
 import pickle
 
+def kernel_picker(number):
+    if number <= 0.25:
+        return 'linear'
+    elif number <= 0.5:
+        return 'poly'
+    elif number <= 0.75:
+        return 'rbf'
+    else:
+        return 'sigmoid'
+
+
 def fitness_func(individual): # Fitness Function
     global X_train
     global y_train
-    classifier = RandomForestClassifier(
-        n_estimators=int(round(individual[0])),
-        max_depth=None if individual[1] < 2 else int(round(individual[1])),
-        min_samples_split=individual[2],
-        min_samples_leaf=individual[3],
-        max_features="auto" if individual[4] < 0.5 else "sqrt",
-        bootstrap=False if individual[5] < 0.5 else True,
-        random_state=int(round(individual[6]))
+    classifier = SVC(
+        C=individual[0],
+        kernel=kernel_picker(individual[1]),
+        degree=int(round(individual[2])),
+        gamma=individual[3],
+        probability=False if individual[4] < 0.5 else True,
+        random_state=int(round(individual[5]))
         )
     classifier.fit(X_train, y_train)
 
@@ -37,13 +47,12 @@ def fitness_func(individual): # Fitness Function
     del classifier
     return -1 * acc.mean()
 
-bounds = [ # Parameters tuned in https://github.com/miguelfzafra/Latest-News-Classifier/blob/master/0.%20Latest%20News%20Classifier/09.%20Report/Latest%20News%20Classifier.pdf plus random_state
-    (1, 1000), # n_estimators: int, default=100
-    (1, 10), # max_depth: int, default=None
-    (0, 1), # min_samples_split: int or float, default=2
-    (0, 0.5), # min_samples_leaf: int or float, default=1
-    (0, 1), # max_features: {“auto”, “sqrt”, “log2”}, int or float, default=”auto”
-    (0, 1), # bootstrap: bool, default=True
+bounds = [ # Parameters tuned in https://github.com/miguelfzafra/Latest-News-Classifier plus random_state
+    (0, 1), # C: float, optional (default=1.0)
+    (0, 1), # kernel : string, optional (default=’rbf’)
+    (1, 5), # degree : int, optional (default=3)
+    (0, 100), # gamma : float, optional (default=0.0)
+    (0, 1), # probability: boolean, optional (default=False)
     (0, 10) # random_state: int or RandomState, default=None
     ]
 
@@ -60,14 +69,13 @@ if __name__ == "__main__":
 
     result = differential_evolution(fitness_func, bounds, disp=True, popsize=args.np, maxiter=args.max_gen, mutation=args.f, recombination=args.cr, strategy='rand1bin')
     
-    print("Best individual: [n_estimators=%s, max_depth=%s, min_samples_split=%s, min_samples_leaf=%s, max_features=%s, bootstrap=%s, random_state=%s] f(x)=%s" % (
-        int(round(result.x[0])),
-        None if result.x[1] < 2 else int(round(result.x[1])),
-        result.x[2],
+    print("Best individual: [C=%s, kernel=%s, degree=%s, gamma=%s, probability=%s, random_state=%s] f(x)=%s" % (
+        result.x[0],
+        kernel_picker(result.x[1]),
+         int(round(result.x[2])),
         result.x[3],
-        "auto" if result.x[4] < 0.5 else "sqrt",
-        False if result.x[5] < 0.5 else True,
-        int(round(result.x[6])),
+        False if result.x[4] < 0.5 else True,
+        int(round(result.x[5])),
         result.fun*(-100)))
 
     with open(args.datfile, 'w') as f:
