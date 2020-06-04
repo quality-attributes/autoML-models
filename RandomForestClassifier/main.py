@@ -38,7 +38,7 @@ def fitness_func(individual): # Fitness Function
     return -1 * acc.mean()
 
 bounds = [ # Parameters tuned in https://github.com/miguelfzafra/Latest-News-Classifier/blob/master/0.%20Latest%20News%20Classifier/09.%20Report/Latest%20News%20Classifier.pdf plus random_state
-    (1, 1000), # n_estimators: int, default=100
+    (1, 100), # n_estimators: int, default=100
     (1, 10), # max_depth: int, default=None
     (0, 1), # min_samples_split: int or float, default=2
     (0, 0.5), # min_samples_leaf: int or float, default=1
