@@ -1,0 +1,58 @@
+{
+    "MultinomialNB": {  
+        "population": 50,
+        "generations": 48,
+        "crossover": 0.0778,
+        "factor": 1.1948,
+        "hyperparameters": [
+            "alpha",
+            "fit_prior"
+        ]
+    },
+    "DecisionTreeClassifier": {
+        "population": 28,
+        "generations": 97,
+        "crossover": 0.6056,
+        "factor": 1.0345,
+        "hyperparameters": [
+            "criterion",
+            "splitter",
+            "max_depth",
+            "min_samples_leaf",
+            "min_weight_fraction_leaf",
+            "max_features",
+            "random_state",
+            "max_leaf_nodes",
+            "min_impurity_decrease"
+        ]
+    },
+    "SVC": {
+        "population": 40,
+        "generations": 53,
+        "crossover": 0.1919,
+        "factor": 1.5074,
+        "hyperparameters": [
+            "C",
+            "kernel",
+            "degree",
+            "gamma",
+            "probability",
+            "random_state"
+        ]
+    },
+    "RandomForestClassifier": {
+        "population": 6,
+        "generations": 75,
+        "crossover": 0.5504,
+        "factor": 0.5324,
+        "hyperparameters": [
+            "n_estimators",
+            "max_depth",
+            "min_samples_split",
+            "min_samples_leaf",
+            "max_features",
+            "bootstrap",
+            "random_state"
+        ]
+    }
+}

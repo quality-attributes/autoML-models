@@ -5,6 +5,7 @@ from scipy.optimize import differential_evolution
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_val_score
 
+import numpy as np
 import pickle
 
 with open('../features_train.pickle', 'rb') as f:
@@ -18,6 +19,10 @@ __license__ = "MIT"
 __version__ = "1.0"
 
 import pickle
+
+def logger(xa, convergence):
+    x_str = np.array_repr(xa).replace('\n', '')
+    print(x_str)
 
 def kernel_picker(number):
     if number <= 0.25:
@@ -57,7 +62,7 @@ bounds = [ # Parameters tuned in https://github.com/miguelfzafra/Latest-News-Cla
     ]
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser(description='Decision Tree Hyperparameter tuning for software requirements categorization using Differential Evolution')
+    ap = argparse.ArgumentParser(description='Support Vector Machine Hyperparameter tuning for software requirements categorization using Differential Evolution')
     ap.add_argument("-v", "--verbose", help="increase output verbosity", action="store_true")
     ap.add_argument('--np', dest='np', type=int, required=True, help='Population size')
     ap.add_argument('--max_gen', dest='max_gen', type=int, required=True, help='Genarations')
@@ -67,16 +72,17 @@ if __name__ == "__main__":
 
     args = ap.parse_args()
 
-    result = differential_evolution(fitness_func, bounds, disp=True, popsize=args.np, maxiter=args.max_gen, mutation=args.f, recombination=args.cr, strategy='rand1bin')
+    result = differential_evolution(fitness_func, bounds, disp=True, popsize=args.np, maxiter=args.max_gen, mutation=args.f, recombination=args.cr, strategy='rand1bin', callback=logger)
     
-    print("Best individual: [C=%s, kernel=%s, degree=%s, gamma=%s, probability=%s, random_state=%s] f(x)=%s" % (
-        result.x[0],
-        kernel_picker(result.x[1]),
-         int(round(result.x[2])),
-        result.x[3],
-        False if result.x[4] < 0.5 else True,
-        int(round(result.x[5])),
-        result.fun*(-100)))
+    #print("Best individual: [C=%s, kernel=%s, degree=%s, gamma=%s, probability=%s, random_state=%s] f(x)=%s" % (
+    #    result.x[0],
+    #    kernel_picker(result.x[1]),
+    #     int(round(result.x[2])),
+    #    result.x[3],
+    #    False if result.x[4] < 0.5 else True,
+    #    int(round(result.x[5])),
+    #    result.fun*(-100)))
 
-    with open(args.datfile, 'w') as f:
-        f.write(str(result.fun*(-100)))
+    if args.datfile:
+        with open(args.datfile, 'w') as f:
+            f.write(str(result.fun*(-100)))

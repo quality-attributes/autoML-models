@@ -1,4 +1,5 @@
 import argparse
+import numpy as np
 
 from scipy.optimize import differential_evolution
 
@@ -18,6 +19,10 @@ __license__ = "MIT"
 __version__ = "1.0"
 
 import pickle
+
+def logger(xa, convergence):
+    x_str = np.array_repr(xa).replace('\n', '')
+    print(x_str)
 
 def fitness_func(individual): # Fitness Function
     global X_train
@@ -62,19 +67,20 @@ if __name__ == "__main__":
 
     args = ap.parse_args()
 
-    result = differential_evolution(fitness_func, bounds, disp=True, popsize=args.np, maxiter=args.max_gen, mutation=args.f, recombination=args.cr, strategy='rand1bin')
+    result = differential_evolution(fitness_func, bounds, disp=True, popsize=args.np, maxiter=args.max_gen, mutation=args.f, recombination=args.cr, strategy='rand1bin', callback=logger)
     
-    print("Best individual: [criterion=%s, splitter=%s, max_depth=%s, min_samples_leaf=%s, min_weight_fraction_leaf=%s, max_features=%s, random_state=%s, max_leaf_nodes=%s, min_impurity_decrease=%s] f(x)=%s" % (
-        "gini" if result.x[0] < 0.5 else "entropy",
-        "best" if result.x[1] < 0.5 else "random",
-        None if result.x[2] < 2 else int(round(result.x[2])),
-        result.x[3],
-        result.x[4],
-        result.x[5],
-        int(round(result.x[6])),
-        None if result.x[7] < 2 else int(round(result.x[7])),
-        result.x[8],
-        result.fun*(-100)))
+    #print("Best individual: [criterion=%s, splitter=%s, max_depth=%s, min_samples_leaf=%s, #min_weight_fraction_leaf=%s, max_features=%s, random_state=%s, max_leaf_nodes=%s, #min_impurity_decrease=%s] f(x)=%s" % (
+    #    "gini" if result.x[0] < 0.5 else "entropy",
+    #    "best" if result.x[1] < 0.5 else "random",
+    #    None if result.x[2] < 2 else int(round(result.x[2])),
+    #    result.x[3],
+    #    result.x[4],
+    #    result.x[5],
+    #    int(round(result.x[6])),
+    #    None if result.x[7] < 2 else int(round(result.x[7])),
+    #    result.x[8],
+    #    result.fun*(-100)))
 
-    with open(args.datfile, 'w') as f:
-        f.write(str(result.fun*(-100)))
+    if args.datfile:
+        with open(args.datfile, 'w') as f:
+            f.write(str(result.fun*(-100)))
