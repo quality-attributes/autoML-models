@@ -1,10 +1,8 @@
 # Iterated Racing Configuration for Differential Evolutionary Algorithms
 
-Hyperparameter tuning for software requirements categorization using Differential Evolution
+Hyperparameter tuning for software requirements categorization using Differential Evolution, the configuration results are:
 
-## Evolutionary Algorithms Configuration Results
-
-### DecisionTreeClassifier
+## DecisionTreeClassifier
 
 |       | Instance | Alive | Best |    Mean best | Exp so far |   W time |   rho | KenW |   Qvar |
 | :---: | -------: | ----: | ---: | -----------: | ---------: | -------: | ----: | ---: | -----: |
@@ -29,7 +27,7 @@ Best configurations (first number is the configuration ID; listed from best to w
 |   2   |         28 |          97 |    0.6056 | 1.0345 |
 |   7   |         34 |          78 |    0.1657 | 0.7599 |
 
-### MultinomialNB
+## MultinomialNB
 
 |       | Instance | Alive | Best |    Mean best | Exp so far |   W time |   rho | KenW |   Qvar |
 | :---: | -------: | ----: | ---: | -----------: | ---------: | -------: | ----: | ---: | -----: |
@@ -58,7 +56,7 @@ Best configurations (first number is the configuration ID; listed from best to w
 |   3   |         18 |          18 |    0.1956 | 1.5302 |
 |   2   |         12 |          11 |    0.3356 | 1.6721 |
 
-### SVC
+## SVC
 
 |       | Instance | Alive | Best |    Mean best | Exp so far |   W time |   rho | KenW |   Qvar |
 | :---: | -------: | ----: | ---: | -----------: | ---------: | -------: | ----: | ---: | -----: |
@@ -86,7 +84,7 @@ Best configurations (first number is the configuration ID; listed from best to w
 |   3   |         10 |          41 |    0.6035 | 1.3334 |
 |   5   |         26 |          18 |    0.9067 | 0.3387 |
 
-### RandomForestClassifier
+## RandomForestClassifier
 
 |       | Instance | Alive | Best |    Mean best | Exp so far |   W time |   rho | KenW |   Qvar |
 | :---: | -------: | ----: | ---: | -----------: | ---------: | -------: | ----: | ---: | -----: |
