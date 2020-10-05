@@ -18,24 +18,24 @@
 # called with: 
 Warning: A default scenario file './scenario.txt' has been found and will be read
 # 1 expression(s) specifying forbidden configurations read from '/Users/adara/Desktop/Quality-Attributes/irace-configuration/irace/forbidden.txt'
-# 2020-06-02 16:40:09 CDT: Initialization
+# 2020-10-05 10:01:39 CDT: Initialization
 # Elitist race
 # Elitist new instances: 1
 # Elitist limit: 2
 # nbIterations: 1
 # minNbSurvival: 4
 # nbParameters: 4
-# seed: 906336355
+# seed: 130677430
 # confidence level: 0.95
 # budget: 50
 # mu: 5
 # deterministic: FALSE
 
-# 2020-06-02 16:40:09 CDT: Iteration 1 of 1
+# 2020-10-05 10:01:39 CDT: Iteration 1 of 1
 # experimentsUsedSoFar: 0
 # remainingBudget: 50
 # currentBudget: 50
-# nbConfigurations: 8
+# nbConfigurations: 5
 # Markers:
      x No test is performed.
      c Configurations are discarded only due to capping.
@@ -47,26 +47,28 @@ Warning: A default scenario file './scenario.txt' has been found and will be rea
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
 | |   Instance|      Alive|       Best|      Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
-|x|          1|          8|          2|   -58.12429379|          8|00:07:39|   NA|  NA|    NA|
-|x|          2|          8|          2|   -58.28813559|         16|00:07:07|+0.81|0.90|0.2449|
-|x|          3|          8|          2|   -58.22598870|         24|00:06:59|+0.76|0.84|0.1995|
-|x|          4|          8|          2|   -58.02824859|         32|00:07:03|+0.80|0.85|0.1602|
-|-|          5|          2|          2|   -58.04180791|         40|00:07:01|+0.20|0.36|0.4000|
+|x|          1|          5|          2|   -74.89048195|          5|00:01:58|   NA|  NA|    NA|
+|x|          2|          5|          5|   -73.96071343|         10|00:01:39|+0.50|0.75|0.2866|
+|x|          3|          5|          2|   -73.09942691|         15|00:01:26|+0.70|0.80|0.1621|
+|x|          4|          5|          2|   -72.37644156|         20|00:01:26|+0.55|0.66|0.1431|
+|-|          5|          3|          2|   -72.76766343|         25|00:01:32|-0.10|0.12|0.7414|
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
-Best-so-far configuration:           2    mean value:    -58.04180791
+Best-so-far configuration:           2    mean value:    -72.76766343
 Description of the best-so-far configuration:
   .ID. population generations crossover factor .PARENT.
-2    2         28          97    0.6056 1.0345       NA
+2    2         32          89    0.4073 1.1551       NA
 
-# 2020-06-02 17:16:00 CDT: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+# 2020-10-05 10:09:43 CDT: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
   population generations crossover factor
-2         28          97    0.6056 1.0345
-7         34          78    0.1657 0.7599
+2         32          89    0.4073 1.1551
+3         14          73    0.1397 0.3162
+5         50          72    0.6188 1.2632
 # Best configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
   population generations crossover factor
-2         28          97    0.6056 1.0345
-7         34          78    0.1657 0.7599
+2         32          89    0.4073 1.1551
+3         14          73    0.1397 0.3162
+5         50          72    0.6188 1.2632
 # Best configurations as commandlines (first number is the configuration ID; same order as above):
-2  --np=28 --max_gen=97 --cr=0.6056 --f=1.0345
-7  --np=34 --max_gen=78 --cr=0.1657 --f=0.7599
-adara@MacBook-Pro-de-Manolo irace % 
+2  --np=32 --max_gen=89 --cr=0.4073 --f=1.1551
+3  --np=14 --max_gen=73 --cr=0.1397 --f=0.3162
+5  --np=50 --max_gen=72 --cr=0.6188 --f=1.2632

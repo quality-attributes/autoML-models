@@ -3,16 +3,22 @@ import argparse
 from scipy.optimize import differential_evolution
 
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.model_selection import cross_val_score
+from imblearn.metrics import geometric_mean_score
 
 import numpy as np
 import pickle
 
-with open('../features_train.pickle', 'rb') as f:
+with open('../X_train.pickle', 'rb') as f:
     X_train = pickle.load(f)
 
-with open('../labels_train.pickle', 'rb') as f:
+with open('../y_train.pickle', 'rb') as f:
     y_train = pickle.load(f)
+
+with open('../X_test.pickle', 'rb') as f:
+    X_test = pickle.load(f)
+
+with open('../y_test.pickle', 'rb') as f:
+    y_test = pickle.load(f)
 
 __author__ = "Manolomon"
 __license__ = "MIT"
@@ -27,15 +33,18 @@ def logger(xa, convergence):
 def fitness_func(individual): # Fitness Function
     global X_train
     global y_train
+    global X_test
+    global y_test
+
     classifier = MultinomialNB(
         alpha=individual[0], 
         fit_prior = False if individual[1] < 0.5 else True
         )
     classifier.fit(X_train, y_train)
 
-    acc = cross_val_score(classifier, X_train, y_train, cv=5)
+    g_mean = geometric_mean_score(y_test, classifier.predict(X_test), average='weighted')
     del classifier
-    return -1 * acc.mean()
+    return -1 * g_mean
 
 bounds = [
     (0, 100), # alpha: float, default=1.0

@@ -10,6 +10,7 @@ configobj==5.0.6
 decorator==4.4.2
 everett==1.0.2
 idna==2.9
+imbalanced-learn==0.7.0
 importlib-metadata==1.6.1
 ipykernel==5.3.0
 ipython==7.15.0
