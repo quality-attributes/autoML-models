@@ -2,6 +2,7 @@ import argparse
 import json
 import re
 import subprocess
+import os
 from comet_ml import Experiment
 
 __author__ = "Manolomon"
@@ -19,7 +20,7 @@ def scrap_output(output, model_params):
                 fx = float(re.compile(
                     r'(\d+\.\d+)$').search(output[i]).group(1))
                 # print(str(step) + ": " + str(fx))
-                experiment.log_metric(step=step, name='accuracy', value=fx)
+                experiment.log_metric(step=step, name='g_mean', value=fx)
             except AttributeError:
                 break
         else:  # Params
@@ -51,8 +52,8 @@ if __name__ == "__main__":
 
     
     experiment = Experiment(
-        api_key='ali1oQ27eFqaZYgKZmCtV3sfK',
-        project_name='quality-attributes',
+        api_key=os.environ['COMET_API'],
+        project_name=os.environ['PROJECT_NAME'],
         log_code=False,
         auto_param_logging=False
     )

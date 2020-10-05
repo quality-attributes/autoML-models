@@ -1,19 +1,19 @@
 {
     "MultinomialNB": {  
-        "population": 50,
-        "generations": 48,
-        "crossover": 0.0778,
-        "factor": 1.1948,
+        "population": 46,
+        "generations": 82,
+        "crossover": 0.8373,
+        "factor": 0.3984,
         "hyperparameters": [
             "alpha",
             "fit_prior"
         ]
     },
     "DecisionTreeClassifier": {
-        "population": 28,
-        "generations": 97,
-        "crossover": 0.6056,
-        "factor": 1.0345,
+        "population": 32,
+        "generations": 89,
+        "crossover": 0.4073,
+        "factor": 1.1551,
         "hyperparameters": [
             "criterion",
             "splitter",
@@ -28,9 +28,9 @@
     },
     "SVC": {
         "population": 40,
-        "generations": 53,
-        "crossover": 0.1919,
-        "factor": 1.5074,
+        "generations": 11,
+        "crossover": 0.1564,
+        "factor": 1.7257,
         "hyperparameters": [
             "C",
             "kernel",
