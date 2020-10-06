@@ -18,23 +18,23 @@
 # called with: 
 Warning: A default scenario file './scenario.txt' has been found and will be read
 # 1 expression(s) specifying forbidden configurations read from '/home/manolo/Desktop/GitHub/irace-configuration/irace/forbidden.txt'
-# 2020-06-04 00:45:47 CDT: Initialization
+# 2020-10-05 23:50:59 CDT: Initialization
 # Elitist race
 # Elitist new instances: 1
 # Elitist limit: 2
 # nbIterations: 1
 # minNbSurvival: 4
 # nbParameters: 4
-# seed: 480680062
+# seed: 1631883414
 # confidence level: 0.95
-# budget: 30
+# budget: 50
 # mu: 5
 # deterministic: FALSE
 
-# 2020-06-04 00:45:47 CDT: Iteration 1 of 1
+# 2020-10-05 23:50:59 CDT: Iteration 1 of 1
 # experimentsUsedSoFar: 0
-# remainingBudget: 30
-# currentBudget: 30
+# remainingBudget: 50
+# currentBudget: 50
 # nbConfigurations: 5
 # Markers:
      x No test is performed.
@@ -47,41 +47,28 @@ Warning: A default scenario file './scenario.txt' has been found and will be rea
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
 | |   Instance|      Alive|       Best|      Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
-|x|          1|          5|          3|   -67.23163842|          5|00:45:25|   NA|  NA|    NA|
-|x|          2|          5|          5|   -66.38983051|         10|00:48:50|+0.41|0.71|0.2080|
-|x|          3|          5|          3|   -66.78154426|         15|00:48:01|+0.34|0.56|0.2418|
-|x|          4|          5|          3|   -66.64124294|         20|00:48:52|+0.28|0.46|0.2893|
-|=|          5|          5|          3|   -66.55593220|         25|00:46:40|+0.28|0.42|0.2687|
-|-|          6|          4|          4|   -66.16666667|         30|00:44:43|-0.19|0.01|0.8539|
+|x|          1|          5|          4|   -81.68373887|          5|00:25:58|   NA|  NA|    NA|
+|x|          2|          5|          5|   -81.19601351|         10|00:26:20|+0.60|0.80|0.1265|
+|x|          3|          5|          5|   -81.07102251|         15|00:25:03|+0.67|0.78|0.1926|
+|x|          4|          5|          5|   -81.49671773|         20|00:25:58|+0.75|0.81|0.1327|
+|-|          5|          3|          5|   -81.34914475|         25|00:24:59|-0.10|0.12|0.6108|
 +-+-----------+-----------+-----------+---------------+-----------+--------+-----+----+------+
-Best-so-far configuration:           2    mean value:    -66.05178908
+Best-so-far configuration:           5    mean value:    -81.34914475
 Description of the best-so-far configuration:
   .ID. population generations crossover factor .PARENT.
-2    2          6          75    0.5504 0.5324       NA
+5    5         20          83    0.2153 1.0173       NA
 
-# 2020-06-04 05:28:20 CDT: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+# 2020-10-06 01:59:20 CDT: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
   population generations crossover factor
-2          6          75    0.5504 0.5324
-4          4          81    0.2506 1.2559
-3         10          41    0.6035 1.3334
-5         26          18    0.9067 0.3387
-# 2020-06-04 05:28:20 CDT: Stopped because budget is exhausted
-# Iteration: 2
-# nbIterations: 1
-# experimentsUsedSoFar: 30
-# timeUsed: 0
-# remainingBudget: 0
-# currentBudget: 30
-# number of elites: 4
-# nbConfigurations: 5
+5         20          83    0.2153 1.0173
+2         12          95    0.9864 1.2967
+4         34          53    0.4527 1.8055
 # Best configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
   population generations crossover factor
-2          6          75    0.5504 0.5324
-4          4          81    0.2506 1.2559
-3         10          41    0.6035 1.3334
-5         26          18    0.9067 0.3387
+5         20          83    0.2153 1.0173
+2         12          95    0.9864 1.2967
+4         34          53    0.4527 1.8055
 # Best configurations as commandlines (first number is the configuration ID; same order as above):
-2  --np=6 --max_gen=75 --cr=0.5504 --f=0.5324
-4  --np=4 --max_gen=81 --cr=0.2506 --f=1.2559
-3  --np=10 --max_gen=41 --cr=0.6035 --f=1.3334
-5  --np=26 --max_gen=18 --cr=0.9067 --f=0.3387
+5  --np=20 --max_gen=83 --cr=0.2153 --f=1.0173
+2  --np=12 --max_gen=95 --cr=0.9864 --f=1.2967
+4  --np=34 --max_gen=53 --cr=0.4527 --f=1.8055
