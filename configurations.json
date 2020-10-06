@@ -41,10 +41,10 @@
         ]
     },
     "RandomForestClassifier": {
-        "population": 6,
-        "generations": 75,
-        "crossover": 0.5504,
-        "factor": 0.5324,
+        "population": 20,
+        "generations": 83,
+        "crossover": 0.2153,
+        "factor": 1.0173,
         "hyperparameters": [
             "n_estimators",
             "max_depth",
