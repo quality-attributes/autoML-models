@@ -1,6 +1,24 @@
 # Created by https://www.gitignore.io/api/r,macos,python
 # Edit at https://www.gitignore.io/?templates=r,macos,python
 
+### VSCode ###
+/.vscode
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+
 ### Config Files ###
 .env
 /irace/*.dat

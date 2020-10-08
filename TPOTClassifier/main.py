@@ -22,12 +22,15 @@ __author__ = "Manolomon"
 __license__ = "MIT"
 __version__ = "1.0"
 
+
 def g_mean(y_true, y_pred):
     return geometric_mean_score(y_true, y_pred)
 
+
 my_custom_scorer = make_scorer(g_mean, greater_is_better=True)
 
-pipeline_optimizer = TPOTClassifier(verbosity=2, scoring=my_custom_scorer, n_jobs=-2, log_file=open('logger.log', 'w'))
+pipeline_optimizer = TPOTClassifier(
+    verbosity=2, scoring=my_custom_scorer, n_jobs=-2, log_file=open('logger.log', 'w'))
 
 pipeline_optimizer.fit(X_train, y_train)
 print(pipeline_optimizer.score(X_test, y_test))
