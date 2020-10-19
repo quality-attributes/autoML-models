@@ -38,7 +38,7 @@ if __name__ == "__main__":
     my_custom_scorer = make_scorer(g_mean, greater_is_better=True)
 
     pipeline_optimizer = TPOTClassifier(
-        verbosity=2, scoring=my_custom_scorer, log_file=open('log/logger' + str(args.exec) + '.log', 'w'))
+        verbosity=2, scoring=my_custom_scorer, n_jobs=-1, log_file=open('log/logger' + str(args.exec) + '.log', 'w'))
 
     pipeline_optimizer.fit(X_train, y_train)
     print(pipeline_optimizer.score(X_test, y_test))
