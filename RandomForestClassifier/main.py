@@ -57,8 +57,7 @@ bounds = [  # Parameters tuned in https://github.com/miguelfzafra/Latest-News-Cl
     (1, 10),  # max_depth: int, default=None
     (0, 1),  # min_samples_split: int or float, default=2
     (0, 0.5),  # min_samples_leaf: int or float, default=1
-    # max_features: {"auto", "sqrt", "log2"}, int or float, default="auto"
-    (0, 1),
+    (0, 1),  # max_features: {"auto", "sqrt", "log2"}, int or float, default="auto"
     (0, 1),  # bootstrap: bool, default=True
     (0, 10)  # random_state: int or RandomState, default=None
 ]

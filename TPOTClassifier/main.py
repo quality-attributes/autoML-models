@@ -1,3 +1,4 @@
+import argparse
 
 from tpot import TPOTClassifier
 from imblearn.metrics import geometric_mean_score
@@ -23,16 +24,23 @@ __license__ = "MIT"
 __version__ = "1.0"
 
 
-def g_mean(y_true, y_pred):
-    return geometric_mean_score(y_true, y_pred)
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser(description='TPOT Classifier Training')
 
+    ap.add_argument('--exec', dest='exec', type=int,
+                    required=True, help='Execution number')
 
-my_custom_scorer = make_scorer(g_mean, greater_is_better=True)
+    args = ap.parse_args()
 
-pipeline_optimizer = TPOTClassifier(
-    verbosity=2, scoring=my_custom_scorer, n_jobs=-2, log_file=open('logger.log', 'w'))
+    def g_mean(y_true, y_pred):
+        return geometric_mean_score(y_true, y_pred)
 
-pipeline_optimizer.fit(X_train, y_train)
-print(pipeline_optimizer.score(X_test, y_test))
+    my_custom_scorer = make_scorer(g_mean, greater_is_better=True)
 
-pipeline_optimizer.export('tpot_exported_pipeline.py')
+    pipeline_optimizer = TPOTClassifier(
+        verbosity=2, scoring=my_custom_scorer, log_file=open('log/logger' + str(args.exec) + '.log', 'w'))
+
+    pipeline_optimizer.fit(X_train, y_train)
+    print(pipeline_optimizer.score(X_test, y_test))
+
+    pipeline_optimizer.export('pipes/tpot_pipeline_' + str(args.exec) + '.py')

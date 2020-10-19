@@ -100,2685 +100,8 @@
         "runContext": null,
         "offset": 91
       }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813321",
-        "timestamp": 1601961091070,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091071,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 340
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091071,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 348
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091072,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 356
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091073,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 364
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091073,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 372
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091074,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 380
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091075,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 388
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091094,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 396
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091094,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 404
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961091095,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 412
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080751,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080752,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 340
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080753,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 348
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080754,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 356
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080754,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 364
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080755,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 372
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080756,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 380
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080757,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 388
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080769,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 396
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080770,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 404
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961080771,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 412
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052555,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052556,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 340
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052557,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 348
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052558,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 356
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052558,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 364
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052559,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 372
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052560,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 380
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052564,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 388
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052565,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 396
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052565,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 404
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961052566,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 412
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601961037548,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 327
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601961037549,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 335
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961037549,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 343
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961037550,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 351
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961037551,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 359
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961037552,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 367
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961037552,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 375
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961037577,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 383
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961037578,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 391
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961037579,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 399
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961037580,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 407
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601961008606,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 327
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961008607,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 335
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961008607,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 343
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601961008608,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 351
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008609,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 359
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008609,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 367
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008610,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 375
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008616,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 383
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008617,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 391
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008618,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 399
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601961008618,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 407
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962352,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 322
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962353,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 330
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962354,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 338
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962355,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 346
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962356,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 354
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962356,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 362
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962357,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 370
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962361,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 378
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962362,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 386
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962363,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 394
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601960962363,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 402
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601956620101,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956620102,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956620103,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956620103,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956620104,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620104,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620105,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620105,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620106,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620106,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956620107,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956615189,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956615190,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956615191,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956615192,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956615193,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615193,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615194,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615204,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615204,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615205,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956615206,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609566,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609568,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609569,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609570,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609570,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609571,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609579,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609579,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609580,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609581,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956609582,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608495,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608497,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608497,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608498,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608499,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608499,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608500,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608515,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608515,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608516,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956608517,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.80714",
-        "timestamp": 1601956582760,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.808444",
-        "timestamp": 1601956582761,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956582762,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956582763,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956582763,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956582764,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601956582765,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956582773,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956582774,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956582775,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956582775,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601956522193,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 247
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522195,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 255
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522195,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 263
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522196,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 271
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522197,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 279
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522197,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 287
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522211,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 295
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522212,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 303
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522212,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 311
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522213,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 319
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601956522214,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 327
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309861,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 257
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309862,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 265
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309862,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 273
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309863,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 281
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309863,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 289
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309864,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 297
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309864,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 305
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309865,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 313
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309865,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 321
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309866,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 329
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953309867,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 337
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294299,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294300,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294301,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294302,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294302,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294303,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294304,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953294305,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953294306,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953294306,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953294307,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249971,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249972,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249973,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249974,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249974,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249975,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249976,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249976,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249985,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249986,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953249987,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953246646,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601953246647,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953246647,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953246648,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953246649,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953246649,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953246650,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 300
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953246657,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 308
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953246658,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 316
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953246658,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 324
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953246659,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 332
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953218134,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 247
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953218135,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 255
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601953218136,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 263
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218137,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 271
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218137,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 279
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218138,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 287
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218139,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 295
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218144,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 303
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218145,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 311
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218146,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 319
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953218146,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 327
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.806315",
-        "timestamp": 1601953147560,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 242
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147561,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 250
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147561,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 258
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147562,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 266
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147563,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 274
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147563,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 282
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147564,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 290
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147573,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 298
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147574,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 306
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147574,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 314
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601953147575,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 322
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601947850764,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 217
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601947850764,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 225
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601947850765,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 233
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947850765,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 241
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850766,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 249
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850766,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 257
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850767,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 265
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850767,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 273
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850768,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 281
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850768,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 289
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947850769,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 297
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839709,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 217
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839710,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 225
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839710,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 233
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839713,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 241
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839714,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 249
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839715,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 257
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839715,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 265
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839716,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 273
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839717,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 281
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839717,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 289
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947839718,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 297
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.806423",
-        "timestamp": 1601947837473,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 217
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.806423",
-        "timestamp": 1601947837474,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 225
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.806423",
-        "timestamp": 1601947837475,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 233
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811211",
-        "timestamp": 1601947837476,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 241
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837477,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 249
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837477,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 257
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837478,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 265
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837479,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 273
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837499,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 281
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837500,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 289
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947837500,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 297
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796872,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 212
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796873,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 220
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796874,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 228
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796874,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 236
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796875,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 244
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.809509",
-        "timestamp": 1601947796876,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947796876,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947796881,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947796882,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947796883,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947796883,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947788902,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 212
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947788903,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 220
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947788903,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 228
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947788904,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 236
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601947788905,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 244
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788905,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788906,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 260
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788907,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 268
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788927,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 276
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788928,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 284
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601947788928,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 292
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601944970020,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 172
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601944970021,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 180
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601944970021,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 188
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601944970022,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 196
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970022,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 204
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970023,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 212
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970023,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 220
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970023,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 228
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970024,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 236
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970024,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 244
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944970025,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 252
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.811215",
-        "timestamp": 1601944923160,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 167
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923161,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 175
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923162,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 183
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923162,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 191
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923163,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 199
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923164,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 207
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923164,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 215
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923165,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 223
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923166,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 231
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923167,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 239
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944923168,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 247
-      }
-    ]
-  },
-  {
-    "metrics": [
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902983,
-        "step": 1,
-        "epoch": null,
-        "runContext": null,
-        "offset": 167
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902984,
-        "step": 2,
-        "epoch": null,
-        "runContext": null,
-        "offset": 175
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902984,
-        "step": 3,
-        "epoch": null,
-        "runContext": null,
-        "offset": 183
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902985,
-        "step": 4,
-        "epoch": null,
-        "runContext": null,
-        "offset": 191
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902986,
-        "step": 5,
-        "epoch": null,
-        "runContext": null,
-        "offset": 199
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902986,
-        "step": 6,
-        "epoch": null,
-        "runContext": null,
-        "offset": 207
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902987,
-        "step": 7,
-        "epoch": null,
-        "runContext": null,
-        "offset": 215
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902993,
-        "step": 8,
-        "epoch": null,
-        "runContext": null,
-        "offset": 223
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902994,
-        "step": 9,
-        "epoch": null,
-        "runContext": null,
-        "offset": 231
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902995,
-        "step": 10,
-        "epoch": null,
-        "runContext": null,
-        "offset": 239
-      },
-      {
-        "metricName": "g_mean",
-        "metricValue": "0.813625",
-        "timestamp": 1601944902995,
-        "step": 11,
-        "epoch": null,
-        "runContext": null,
-        "offset": 247
-      }
-    ]
+    ],
+    "experimentKey": "b3c95de7fd6440b18e62460f0f09b53d"
   },
   {
     "metrics": [
@@ -2881,7 +204,2712 @@
         "runContext": null,
         "offset": 242
       }
-    ]
+    ],
+    "experimentKey": "103f34e7328542ef974f249f1e8caf3e"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902983,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 167
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902984,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 175
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902984,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 183
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902985,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 191
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902986,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 199
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902986,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 207
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902987,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 215
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902993,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 223
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902994,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 231
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902995,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 239
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944902995,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 247
+      }
+    ],
+    "experimentKey": "dc0f525425c64fd6bca5e50f5df02e7d"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601944923160,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 167
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923161,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 175
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923162,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 183
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923162,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 191
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923163,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 199
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923164,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 207
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923164,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 215
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923165,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 223
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923166,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 231
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923167,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 239
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944923168,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 247
+      }
+    ],
+    "experimentKey": "86eacb4f4e3c4b06a45ceccee1d657e2"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601944970020,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 172
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601944970021,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 180
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601944970021,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 188
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601944970022,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 196
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970022,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 204
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970023,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 212
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970023,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 220
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970023,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 228
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970024,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 236
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970024,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 244
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601944970025,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      }
+    ],
+    "experimentKey": "83a3ce56e9094efb9c4fc3d632526748"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947788902,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 212
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947788903,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 220
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947788903,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 228
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947788904,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 236
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947788905,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 244
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788905,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788906,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788907,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788927,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788928,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947788928,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      }
+    ],
+    "experimentKey": "7dfd0ea9dd8d4d9288f4d0e33122c383"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796872,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 212
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796873,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 220
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796874,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 228
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796874,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 236
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796875,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 244
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601947796876,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947796876,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947796881,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947796882,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947796883,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947796883,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      }
+    ],
+    "experimentKey": "b3f36b876d1f4c00b723bb7dc27912b0"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.806423",
+        "timestamp": 1601947837473,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 217
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.806423",
+        "timestamp": 1601947837474,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 225
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.806423",
+        "timestamp": 1601947837475,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 233
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601947837476,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 241
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837477,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 249
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837477,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 257
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837478,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 265
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837479,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 273
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837499,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 281
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837500,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 289
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947837500,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 297
+      }
+    ],
+    "experimentKey": "99dd61b991ba4a8792e12eb12635c619"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839709,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 217
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839710,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 225
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839710,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 233
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839713,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 241
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839714,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 249
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839715,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 257
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839715,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 265
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839716,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 273
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839717,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 281
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839717,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 289
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947839718,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 297
+      }
+    ],
+    "experimentKey": "9231198f83a54acbb1792c7c1016dee2"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601947850764,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 217
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601947850764,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 225
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601947850765,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 233
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601947850765,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 241
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850766,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 249
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850766,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 257
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850767,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 265
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850767,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 273
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850768,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 281
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850768,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 289
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601947850769,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 297
+      }
+    ],
+    "experimentKey": "88b4eeda5eb64dd38d4be6e4aa7df892"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.806315",
+        "timestamp": 1601953147560,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 242
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147561,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 250
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147561,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 258
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147562,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 266
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147563,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 274
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147563,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 282
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147564,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 290
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147573,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 298
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147574,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 306
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147574,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 314
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953147575,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 322
+      }
+    ],
+    "experimentKey": "a5099a7a3fae4c739a19617f024775d2"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953218134,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 247
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953218135,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 255
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953218136,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 263
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218137,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 271
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218137,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 279
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218138,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 287
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218139,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 295
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218144,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 303
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218145,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 311
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218146,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 319
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953218146,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 327
+      }
+    ],
+    "experimentKey": "37f7118fca1846a086bf95a164ede9b5"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953246646,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953246647,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953246647,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953246648,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953246649,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953246649,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601953246650,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953246657,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953246658,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953246658,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953246659,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "b597a34e34044574bef6899b808db201"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249971,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249972,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249973,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249974,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249974,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249975,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249976,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249976,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249985,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249986,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953249987,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "2498334d92744fc7a56a662d8ff19ed3"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294299,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294300,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294301,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294302,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294302,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294303,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294304,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601953294305,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953294306,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953294306,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953294307,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "ea7cc5fa757841d7852a0d36ea0f3378"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309861,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 257
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309862,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 265
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309862,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 273
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309863,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 281
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309863,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 289
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309864,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 297
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309864,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 305
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309865,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 313
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309865,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 321
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309866,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 329
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601953309867,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 337
+      }
+    ],
+    "experimentKey": "0eb28c20ed7f471da8b6c994c1caeda8"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956522193,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 247
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522195,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 255
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522195,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 263
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522196,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 271
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522197,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 279
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522197,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 287
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522211,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 295
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522212,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 303
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522212,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 311
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522213,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 319
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956522214,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 327
+      }
+    ],
+    "experimentKey": "ff91ea64585e48918dddbae698f4cede"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.80714",
+        "timestamp": 1601956582760,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.808444",
+        "timestamp": 1601956582761,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956582762,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956582763,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956582763,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956582764,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956582765,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956582773,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956582774,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956582775,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956582775,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "6c323142ace54eb792b5d5d7869d7e58"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608495,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608497,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608497,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608498,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608499,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608499,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608500,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608515,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608515,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608516,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956608517,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "c0721e55e5884695838c1bc5673fe029"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609566,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609568,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609569,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609570,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609570,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609571,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609579,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609579,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609580,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609581,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956609582,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "f8b51f4fdda448eea8cdeb032c46a6e1"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956615189,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956615190,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956615191,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956615192,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956615193,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615193,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615194,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615204,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615204,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615205,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956615206,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "54f9d73bcf914a5f961b1554dba8b692"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601956620101,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 252
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601956620102,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 260
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956620103,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 268
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956620103,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 276
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601956620104,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 284
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620104,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 292
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620105,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 300
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620105,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 308
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620106,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 316
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620106,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 324
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601956620107,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      }
+    ],
+    "experimentKey": "57c8ecd8d1c34a7db50417430ce210c4"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962352,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 322
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962353,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 330
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962354,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 338
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962355,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 346
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962356,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 354
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962356,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 362
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962357,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 370
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962361,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 378
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962362,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 386
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962363,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 394
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601960962363,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 402
+      }
+    ],
+    "experimentKey": "dfa4e298b9d942899754daeffcf42108"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.809509",
+        "timestamp": 1601961008606,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 327
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961008607,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 335
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961008607,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 343
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961008608,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 351
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008609,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 359
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008609,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 367
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008610,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 375
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008616,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 383
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008617,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 391
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008618,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 399
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961008618,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 407
+      }
+    ],
+    "experimentKey": "e56741cc1fd54aa4bec2798a928b8841"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601961037548,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 327
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811211",
+        "timestamp": 1601961037549,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 335
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961037549,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 343
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961037550,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 351
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961037551,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 359
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.811215",
+        "timestamp": 1601961037552,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 367
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961037552,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 375
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961037577,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 383
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961037578,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 391
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961037579,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 399
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961037580,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 407
+      }
+    ],
+    "experimentKey": "dcad0fee64934204b70306bbed80abc3"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052555,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052556,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 340
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052557,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 348
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052558,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 356
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052558,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 364
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052559,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 372
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052560,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 380
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052564,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 388
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052565,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 396
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052565,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 404
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961052566,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 412
+      }
+    ],
+    "experimentKey": "20cb330a02704ff4a187fe8ab4619df8"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080751,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080752,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 340
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080753,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 348
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080754,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 356
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080754,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 364
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080755,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 372
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080756,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 380
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080757,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 388
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080769,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 396
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080770,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 404
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961080771,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 412
+      }
+    ],
+    "experimentKey": "a45d976ae64a4ce385dc1c517fe38d0b"
+  },
+  {
+    "metrics": [
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813321",
+        "timestamp": 1601961091070,
+        "step": 1,
+        "epoch": null,
+        "runContext": null,
+        "offset": 332
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091071,
+        "step": 2,
+        "epoch": null,
+        "runContext": null,
+        "offset": 340
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091071,
+        "step": 3,
+        "epoch": null,
+        "runContext": null,
+        "offset": 348
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091072,
+        "step": 4,
+        "epoch": null,
+        "runContext": null,
+        "offset": 356
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091073,
+        "step": 5,
+        "epoch": null,
+        "runContext": null,
+        "offset": 364
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091073,
+        "step": 6,
+        "epoch": null,
+        "runContext": null,
+        "offset": 372
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091074,
+        "step": 7,
+        "epoch": null,
+        "runContext": null,
+        "offset": 380
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091075,
+        "step": 8,
+        "epoch": null,
+        "runContext": null,
+        "offset": 388
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091094,
+        "step": 9,
+        "epoch": null,
+        "runContext": null,
+        "offset": 396
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091094,
+        "step": 10,
+        "epoch": null,
+        "runContext": null,
+        "offset": 404
+      },
+      {
+        "metricName": "g_mean",
+        "metricValue": "0.813625",
+        "timestamp": 1601961091095,
+        "step": 11,
+        "epoch": null,
+        "runContext": null,
+        "offset": 412
+      }
+    ],
+    "experimentKey": "3a2157baf9d74dbcb04976377d8036df"
   },
   {
     "metrics": [
@@ -2984,7 +3012,8 @@
         "runContext": null,
         "offset": 412
       }
-    ]
+    ],
+    "experimentKey": "79a1683fad234b669c3141425ba942f3"
   },
   {
     "metrics": [
@@ -3087,6 +3116,7 @@
         "runContext": null,
         "offset": 412
       }
-    ]
+    ],
+    "experimentKey": "e42b1dd3fe5a4e0b8150d84cfd7e4a67"
   }
 ]

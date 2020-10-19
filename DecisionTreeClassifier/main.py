@@ -61,8 +61,7 @@ bounds = [
     (1, 100),  # max_depth: int, default=None
     (0, 0.5),  # min_samples_leaf: int or float, default=1
     (0, 0.5),  # min_weight_fraction_leaf: float, default=0.0
-    # max_features: int, float or {"auto", "sqrt", "log2"}, default=None
-    (0, 1),
+    (0, 1),   # max_features: int, float or {"auto", "sqrt", "log2"}, default=None
     (0, 10),  # random_state: int, RandomState instance, default=None
     (1, 100),  # max_leaf_nodes: int, default=None
     (0, 1)  # min_impurity_decrease: float, default=0.0
