@@ -33,7 +33,7 @@ if __name__ == "__main__":
     args = ap.parse_args()
 
     def g_mean(y_true, y_pred):
-        return geometric_mean_score(y_true, y_pred)
+        return geometric_mean_score(y_true, y_pred, average='weighted')
 
     my_custom_scorer = make_scorer(g_mean, greater_is_better=True)
 
